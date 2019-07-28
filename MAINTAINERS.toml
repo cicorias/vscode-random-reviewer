@@ -1,0 +1,8 @@
+[people]
+    [people.cicorias]
+        name = "Shawn Cicoria"
+        email = "github@cicoria.com"
+        login = "cicorias"
+        current = true
+        [areas]
+
